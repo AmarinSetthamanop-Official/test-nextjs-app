@@ -1,0 +1,10 @@
+.header {
+    color: rgb(44, 0, 174);
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    max-width: 100px;
+    margin: 0 auto;
+}

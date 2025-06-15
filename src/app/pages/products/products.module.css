@@ -1,0 +1,44 @@
+.container {
+    padding: 1.5rem;
+}
+
+.card1 {
+    display: flex;
+    flex-direction: row;
+    /* background-color: antiquewhite; */
+    margin-top: 1rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.card2 {
+    display: flex;
+    flex-direction: row;
+    /* background-color: rgb(131, 131, 234); */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.card3 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(192, 151, 97);
+    /* margin-top: 1rem; */
+    justify-content: center;
+    align-items: center;
+}
+.card3 p {
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+}
+.card3:hover p {
+    background-color: rgb(206, 234, 24);
+}
+.image {
+    width: 100px;
+    height: 100px;
+}
