@@ -7,6 +7,7 @@ function Register() {
 
   return (
     <>
+      <p>edit register page</p>
       <h1 className={styles.header}>Register</h1>
     </>
   )
