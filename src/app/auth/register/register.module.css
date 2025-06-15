@@ -1,0 +1,9 @@
+.header {
+    background-color: brown;
+    transition: 0.5s ease-in-out;
+    
+}
+.header:hover {
+    background-color: rgb(171, 215, 129);
+    transition: 0.5s ease-in-out;
+}
