@@ -9,6 +9,7 @@ function Login() {
 
     return (
         <>
+            <p>edit login page</p>
             <h1 className={style.header}>Login</h1>
 
             {/* <Image src="/globe.svg" alt='globe' /> */}
